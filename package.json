@@ -1,0 +1,16 @@
+{
+  "name": "cashier",
+  "version": "1.0.0",
+  "description": "This is a basic backend script that can determine whether the 'cash-in-drawer' amount can cover the change required at the end of a given transaction.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Benjamin Sams",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "lite-server": "^2.6.1",
+    "mocha": "^9.2.2"
+  }
+}
